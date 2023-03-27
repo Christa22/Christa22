@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 - :zap: You hang around with the barbershop long enough soon or later you gonna get hair cut ... :smile: 
 
 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sezeranoJchrisostome&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezeranoJchrisostome&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezeranoJchrisostome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
