@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html6" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html6" src="https://img.shields.io/badge/-HTML6-E34F26?style=flat-square&logo=html6&logoColor=white" />
   
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ed820fcfb4012e184e3221268236bb25059e6a42b281093ece8c688d24a3a4db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465"><img alt="Firebase" src="https://camo.githubusercontent.com/ed820fcfb4012e184e3221268236bb25059e6a42b281093ece8c688d24a3a4db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
  
